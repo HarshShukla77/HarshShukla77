@@ -37,7 +37,13 @@ I'm Harsh from India.
 - 🔹 [WebAI](https://github.com/HarshShukla77/WebAI) — _AI-driven interface built with TypeScript_
 
 ---
+### 💬 Get in Touch
 
+- 📧 Email: [harshshukla844277@gmail.com](mailto:harshshukla844277@gmail.com)  
+- 💼 LinkedIn: [HarshShukla]([https://www.linkedin.com/in/karankendre](https://www.linkedin.com/in/harsh-shukla-b87237221/))  
+- 🌐 Portfolio: [HarshShukla.dev](https://harshshukla-rosy.vercel.app/)
+
+---
 <!--
 **HarshShukla77/HarshShukla77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
