@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Harsh Shukla
 
 ### 👨‍💻 About Me
-I'm Harsh from India.
+A passionate full stack web developer from India
 
 - 🔭 I’m currently working on improving my skills in full-stack development.
 - 📚 I'm currently learning the Nextjs and planning to explore DevOps next.
