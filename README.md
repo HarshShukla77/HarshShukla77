@@ -6,7 +6,7 @@ I'm Harsh from India.
 - 🔭 I’m currently working on improving my skills in full-stack development.
 - 📚 I'm currently learning the MERN stack and planning to explore DevOps next.
 - 💻 Just grinding until AI replaces us.
-
+-💬 Ask me about DSA, React.js, Node.js, Nextjs, Express.js, and MongoDb 
 ---
 
 ### ⚙️ Languages and Tools  
