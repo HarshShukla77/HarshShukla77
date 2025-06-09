@@ -31,9 +31,9 @@ I'm Harsh from India.
 
 ### 🌟 Projects
 
-- 🔹 [RealTimeChatApp](https://github.com/HarshShukla77/RealTimeChatApp) — _JavaScript-based real-time chat experience_
-- 🔹 [StudyNotion](https://github.com/HarshShukla77/StudyNotion) — _MERN-based EdTech platform_
-- 🔹 [feedback](https://github.com/HarshShukla77/feedback) — _Feedback collector in TypeScript_
+- 🔹 [RealTimeChatApp](https://github.com/HarshShukla77/RealTimeChatApp) — _JavaScript-based real-time chat experience with socket.io_
+- 🔹 [StudyNotion](https://github.com/HarshShukla77/StudyNotion) — _ FullStack MERN-based EdTech platform for student and instructor_
+- 🔹 [feedback](https://github.com/HarshShukla77/feedback) — _Feedback collector in NextJs with AI suggested question _
 - 🔹 [WebAI](https://github.com/HarshShukla77/WebAI) — _AI-driven interface built with TypeScript_
 
 ---
