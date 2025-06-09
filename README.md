@@ -40,7 +40,7 @@ I'm Harsh from India.
 ### 💬 Get in Touch
 
 - 📧 Email: [harshshukla844277@gmail.com](mailto:harshshukla844277@gmail.com)  
-- 💼 LinkedIn: [HarshShukla]([https://www.linkedin.com/in/karankendre](https://www.linkedin.com/in/harsh-shukla-b87237221/))  
+- 💼 LinkedIn: [HarshShukla]([https://www.linkedin.com/in/karankendre](https://www.linkedin.com/in/harsh-shukla-b87237221)  
 - 🌐 Portfolio: [HarshShukla.dev](https://harshshukla-rosy.vercel.app/)
 
 ---
