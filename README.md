@@ -36,11 +36,11 @@ A passionate full stack web developer from India
 
 ### 🌟 Projects
 
-- 🔹 [RealTimeChatApp](https://github.com/HarshShukla77/RealTimeChatApp) — _JavaScript-based real-time chat experience with socket.io_
-- 🔹 [StudyNotion](https://github.com/HarshShukla77/StudyNotion) — _ FullStack MERN-based EdTech platform for student and instructor_
-- 🔹 [feedback](https://github.com/HarshShukla77/feedback) — _Feedback collector in NextJs with AI suggested questions_
-- 🔹 [WebAI](https://github.com/HarshShukla77/WebAI) — _AI-driven interface built with TypeScript_
-- 🔹 [RealTimeTracker](https://github.com/HarshShukla77/RealTimeTracker) - Mini Project about Real Time Tracking web app through socket.io
+ 🔹 [RealTimeChatApp](https://github.com/HarshShukla77/RealTimeChatApp) — _JavaScript-based real-time chat experience with socket.io_
+ 🔹 [StudyNotion](https://github.com/HarshShukla77/StudyNotion) — _ FullStack MERN-based EdTech platform for student and instructor_
+ 🔹 [feedback](https://github.com/HarshShukla77/feedback) — _Feedback collector in NextJs with AI suggested questions_
+ 🔹 [WebAI](https://github.com/HarshShukla77/WebAI) — _AI-driven interface built with TypeScript_
+ 🔹 [RealTimeTracker](https://github.com/HarshShukla77/RealTimeTracker) - Mini Project about Real Time Tracking web app through socket.io
 
 ---
 ### 💬 Get in Touch
