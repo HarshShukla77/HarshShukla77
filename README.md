@@ -23,7 +23,7 @@ A passionate full stack web developer from India
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="80" />
-   <img src="https://avatars.githubusercontent.com/u/113232529?s=200&v=4" width="80" title="LangChain" />
+  
 
 </p>
 
