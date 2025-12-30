@@ -44,7 +44,6 @@ A passionate full stack web developer from India
 - 📧 Email: [harshshukla844277@gmail.com](mailto:harshshukla844277@gmail.com)  
 - 💼 LinkedIn: [HarshShukla](https://www.linkedin.com/in/harsh-shukla-b87237221)  
 - 🌐 Portfolio: [HarshShukla.dev](https://harshshukla-rosy.vercel.app/)
-hey You are expert in kotlin and java android development .i want you to go through all this project and pin point specific lines of code and file . I dont want you to run anything . i dont want to run this project . So this project is an android chat app . what I wanna do is i wanna integrate one check that is .for example I am a person is admin and the chat room is group then for that admin he doesnt see the text input message area plus sending button area which comes at the bottom of every chat app hope you get me . i just want it to hide it for admin  .please first reach out that code and file dont do anything just tell me what are those file and what changes I need to do as I am new to kotlin and java 
 ---
 <!--
 **HarshShukla77/HarshShukla77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
